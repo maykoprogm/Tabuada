@@ -1,0 +1,130 @@
+{
+  "mojito": {
+    "ingredientes": [
+      "50 ml de rum branco",
+      "30 ml de suco de limão",
+      "2 colheres de chá de açúcar",
+      "Hortelã",
+      "Água com gás"
+    ],
+    "modo_preparo": [
+      "Macere o hortelã com o açúcar e o suco de limão.",
+      "Adicione o rum e gelo.",
+      "Complete com água com gás.",
+      "Misture e sirva.",
+      "Copo: Copo alto e cilíndrico, geralmente com capacidade entre 300-400 ml (highball)"
+    ]
+  },
+
+  "caipirinha": {
+     "ingredientes":[
+      "1 limão tahiti (maduro, com casca fina)",
+      "2 colheres de chá de açúcar (ou a gosto)",
+      "50 ml de cachaça",
+      "Gelo a gosto (em cubos ou picado)"],
+
+
+     "modo_preparo": [
+      "Corte o limão ao meio, depois em 4 partes (retire o miolo branco se quiser reduzir o amargor).",
+      "Coloque o limão no copo com a casca virada para baixo (a parte com a polpa virada para cima).",
+      "Adicione o açúcar por cima.",
+      "Esmague suavemente com um muddler (socador), apenas para extrair o suco sem amargar a bebida.",
+      "Acrescente gelo até encher o copo.",
+      "Adicione os 50 ml de cachaça.",
+      "Misture bem com uma colher ou canudo.",
+      "Decore com uma rodela de limão, se quiser."
+
+     ]
+  },
+
+  "expresso martini": {
+    "ingredientes": [
+      "50 ml de vodka",
+      "30 ml de café espresso (forte e fresco, de preferência)",
+      "20 ml de licor de café (ex: Kahlúa)",
+      "10 ml de xarope de açúcar (opcional, para ajustar a doçura)",
+      "Grãos de café para decorar (3 grãos são tradicionais)"
+    ],
+    "modo_preparo": [
+      "Prepare um café espresso forte e fresco.",
+      "Coloque todos os ingredientes (vodka, café, licor de café e xarope de açúcar) em uma coqueteleira com gelo.",
+      "Agite vigorosamente por cerca de 15 segundos para criar uma camada espumosa.",
+      "Coe para uma taça de martini previamente resfriada.",
+      "Decore com 3 grãos de café sobre a espuma (opcional).",
+      "Taça: Taça de martini. Taça com haste longa e bocal em formato de cone invertido. Capacidade em torno de 120-150 ml."
+    ]
+  },
+
+  "gin tonico": {
+  "ingredientes": [
+    "50 ml de gin (escolha um de boa qualidade)",
+    "100 a 150 ml de água tônica (Folkington’s,San Pellegrino,Schweppes)",
+    "Gelo em cubos",
+    "1 fatia de limão, lima ou casca de limão para decorar",
+    "Opcional: zimbro, pepino, alecrim, ou outros botânicos para aroma"
+  ],
+  "modo_preparo": [
+    "Encha um copo alto ou taça balloon com gelo em cubos até quase o topo.",
+    "Despeje o gin sobre o gelo.",
+    "Complete lentamente com a água tônica, para não perder o gás.",
+    "Mexa suavemente uma vez para misturar.",
+    "Decore com uma fatia ou casca de limão, lima ou outros botânicos como zimbro ou pepino para aroma extra.",
+    "Copo: Taça balloon (taça grande de vinho) tem bocal largo para liberar aromas e acomodar bastante gelo e botânicos."
+  ]
+},
+
+  "sangria": {
+  "ingredientes": [
+    "100 ml de vinho tinto",
+    "1 fatia de laranja",
+    "1 fatia de limão",
+    "3 a 4 pedaços de maçã em cubos (com ou sem casca)",
+    "1 colher de chá de açúcar",
+    "Gelo até encher o copo",
+    "30–50 ml de 7Up ou água com gás (só um splash para suavizar)",
+    " raminho de hortelã "
+  ],
+  "modo_preparo": [
+    "Em uma taça grande (ou copo tipo balloon ou long drink), coloque a fruta cortada e o açúcar.",
+    "Se quiser, adicione o licor ou aguardente por cima da fruta.",
+    "Mexa delicadamente para macerar ligeiramente os pedaços de fruta e ativar o aroma.",
+    "Adicione o vinho tinto por cima.",
+    "Complete com gelo até o topo.",
+    "Finalize com um splash de 7Up ou água com gás.",
+    "Mexa só uma vez com a colher ou canudo."
+
+  ]
+},
+
+  "moscow mule": {
+  "ingredientes": [
+    "50 ml de vodka",
+    "15 ml de sumo de limão tahiti fresco",
+    "100 ml de ginger beer (ou ginger ale, se não encontrar)",
+    "Gelo em cubos",
+    "Rodela de limão ou hortelã para decorar",
+    " //// Ingrediente da espuma sem sifão ////",
+    "1 clara de ovo",
+    "15 ml de sumo de limão",
+    "15 ml de xarope de gengibre",
+    "Bater com fouet (manual) ou mixer até formar uma espuma firme"
+  ],
+  "modo_preparo": [
+    "Encha uma caneca de cobre ou copo com gelo.",
+    "Adicione a vodka e o sumo de limão.",
+    "Complete com a ginger beer.",
+    "Misture levemente com uma colher longa.",
+    "Finalize com uma colherada da espuma de gengibre por cima, criando uma camada cremosa.",
+    "Decore com uma rodela de limão, gengibre cristalizado ou folha de hortelã."
+  ]
+}
+
+
+
+
+
+
+
+
+
+}
